@@ -1,3 +1,4 @@
+:)
 # 1) Suppose your current working directory is ~/Desktop/classes/python_decal/. What command would allow you to navigate directly to ~/Desktop?
 #cd ..
 # 2) What does ~/ mean? 
