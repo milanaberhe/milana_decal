@@ -30,4 +30,18 @@ def fancy_function(sippy_cup):
     return every_3rd[::-1]
 
 #3.1
-#nah i'm stuck and google isn't helping :()
+numbers = []
+for i in range(1,25):
+    other = []
+    for j in range(1,6):
+        other.append(j)
+    numbers.append(other)
+    for k in range(6,11):
+        other.append(k)
+    numbers.append(k)
+    for l in range(11,16):
+        other.append(k)
+    for m in range(16,21):
+        other.append(m)
+    for n in range(21,26):
+        other.append(n)
